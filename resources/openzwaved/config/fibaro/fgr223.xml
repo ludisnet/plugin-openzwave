@@ -82,7 +82,7 @@ For gates (parameter 151 set to 3 or 4) the parameter determines time after whic
 The parameter is irrelevant for other modes. (0-90000 (0 – 900s, every 0.01s) – time of turn)</Help>
     </Value>
 
-	<Value type="list" genre="config" instance="1" index="153" label="Set slats back to previous position" value="150" size="4">
+	<Value type="list" genre="config" instance="1" index="153" label="Set slats back to previous position" value="150" size="1">
       <Help>For Venetian blinds (parameter 151 set to 2) the parameter determines slats positioning in various situations.
 The parameter is irrelevant for other modes.</Help>
 		 <Item label="slats return to previously set position only in case of the main controller operation." value="0" />
